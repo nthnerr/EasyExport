@@ -1,4 +1,3 @@
-````markdown
 # EasyExport for After Effects
 
 EasyExport is a lightweight After Effects script that automates professional-quality MP4 exports.  
@@ -10,7 +9,6 @@ With one click, it renders your composition using a lossless preset and converts
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/yourusername/EasyExport.git
-````
 
 2. Place `EasyExport.jsx` in your After Effects Scripts folder:
 
@@ -59,15 +57,6 @@ myVideo_export.mp4   ← final FFmpeg render
 
 ---
 
-## What's New in v1.0
-
-* One-click automated lossless → MP4 export
-* Auto-generated “EasyExport_Lossless” template
-* FFmpeg detection and friendly error messages
-* Clean UI with live status messages
-* Cross-platform support (Windows/macOS)
-
----
 
 ## License
 
