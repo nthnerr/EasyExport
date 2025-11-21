@@ -12,9 +12,8 @@ With one click, it renders your composition using a lossless preset and converts
 
 2. Place `EasyExport.jsx` in your After Effects Scripts folder:
 
-   * **Windows:** `Documents/Adobe/After Effects <version>/Scripts/`
-   * **macOS:** `~/Library/Application Support/Adobe/After Effects/<version>/Scripts/`
-3. (Optional) For a dockable panel, move it into the **ScriptUI Panels** folder.
+   * **Windows:** `Documents/Adobe/After Effects <version>/Scripts/ScriptUI Panels/`
+   * **macOS:** `~/Library/Application Support/Adobe/After Effects/<version>/Scripts/ScriptUI Panels/`
 
 ---
 
