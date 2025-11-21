@@ -1,7 +1,7 @@
 # EasyExport for After Effects
 
 EasyExport is a lightweight After Effects script that automates professional-quality MP4 exports.  
-With one click, it renders your composition using a lossless preset and converts it to a high-quality MP4 using FFmpeg — giving you cleaner results than AE’s built-in H.264 exporter.
+With one click, it renders your composition using a lossless preset and converts it to a high-quality MP4 using FFmpeg, giving you cleaner results than AE’s built-in H.264 exporter.
 
 ---
 
