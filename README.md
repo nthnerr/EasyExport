@@ -63,4 +63,3 @@ myVideo_export.mp4   ← final FFmpeg render
 EasyExport is open-source and available under the MIT License.
 
 ```
-```
